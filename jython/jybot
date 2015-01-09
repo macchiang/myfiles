@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-export CLASSPATH=/usr/sikulix/*:/usr/jython/*
-jython "/usr/lib/python2.7/site-packages/robotframework-2.8.6-py2.7.egg/robot/run.py" $*
